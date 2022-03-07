@@ -1,4 +1,4 @@
-package br.java.app_loja_ecommerce_master.ui;
+package br.java.app_loja_ecommerce_master;
 
 import androidx.appcompat.app.AppCompatActivity;
 

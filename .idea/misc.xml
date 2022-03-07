@@ -3,8 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/administrator/AndroidStudioProjects/AppLojaEcommerceMaster/app/src/main/res/layout/activity_entrar_pagina.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/administrator/AndroidStudioProjects/AppLojaEcommerceMaster/app/src/main/res/layout/activity_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/administrator/AndroidStudioProjects/AppLojaEcommerceMaster/app/src/main/res/layout/activity_pagina_principal.xml" value="0.14270833333333333" />
         <entry key="..\:/Users/administrator/AndroidStudioProjects/AppLojaEcommerceMaster/app/src/main/res/layout/activity_registrar_pagina.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/administrator/AndroidStudioProjects/AppLojaEcommerceMaster/app/src/main/res/layout/app_bar_principal_pagina.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/administrator/AndroidStudioProjects/AppLojaEcommerceMaster/app/src/main/res/layout/content_principal_pagina.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/administrator/AndroidStudioProjects/AppLojaEcommerceMaster/app/src/main/res/layout/nav_cabecalho_principal_pagina.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/administrator/AndroidStudioProjects/AppLojaEcommerceMaster/app/src/main/res/menu/activity_principal_pagina_drawer.xml" value="0.14270833333333333" />
       </map>
     </option>
   </component>

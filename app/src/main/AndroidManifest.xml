@@ -10,10 +10,16 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AppLojaEcommerceMaster">
         <activity
-            android:name=".ui.MainActivity"
+            android:name=".RegistrarPagina"
             android:exported="false" />
         <activity
-            android:name=".ui.RegistrarPagina"
+            android:name=".EntrarPagina"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PaginaPrincipalActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
