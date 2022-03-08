@@ -58,9 +58,9 @@ public class EntrarPagina extends AppCompatActivity {
 
                             if (dph.equals(ph) && dpa.equals(pa)) {
                                 Intent i = new Intent(EntrarPagina.this, PaginaPrincipalActivity.class);
-                                i.putExtra("Nome", dpn);
-                                i.putExtra("Telefone", dph);
-                                i.putExtra("Senha", dpa);
+                                i.putExtra("NOME", dpn);
+                                i.putExtra("TELEFONE", dph);
+                                i.putExtra("SENHA", dpa);
                                 i.putExtra("CHAMADAACTIVITY", "EntrarPagina");
                                 startActivity(i);
                                 x = 1;

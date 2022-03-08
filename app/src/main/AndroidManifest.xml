@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
+            android:name=".SeuPedido"
+            android:exported="false" />
+        <activity
+            android:name=".AdminPrincipalPagina"
+            android:exported="false" />
+        <activity
+            android:name=".AddEstoque"
+            android:exported="false" />
+        <activity
             android:name=".ExibirItem"
             android:exported="false" />
         <activity
@@ -25,13 +34,13 @@
             android:name=".RegistrarPagina"
             android:exported="false" />
         <activity
-            android:name=".EntrarPagina"
+            android:name=".PaginaPrincipalActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
             android:exported="false" />
         <activity
-            android:name=".PaginaPrincipalActivity"
+            android:name=".EntrarPagina"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

@@ -12,11 +12,13 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.Toast;
 
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.navigation.NavigationView;
 import com.google.android.material.snackbar.Snackbar;
 import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
 
 import br.java.app_loja_ecommerce_master.R;
 
@@ -64,15 +66,24 @@ public class PaginaPrincipalActivity extends AppCompatActivity {
         final String sph = getIntent().getStringExtra("TELEFONE");
         final String spa = getIntent().getStringExtra("SENHA");
 
+        final String ca = getIntent().getStringExtra("CHAMADAACTIVITY");
+        if (ca.equals("EntrarPagina"))
+            Toast.makeText(this, "Olá , " + sna + "!", Toast.LENGTH_SHORT).show();
+        else if(ca.equals("SeuPedido"))
+            Toast.makeText(this, "Pedido feito com sucesso!", Toast.LENGTH_SHORT).show();
+
         roupas.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 Intent intent = new Intent(PaginaPrincipalActivity.this, Roupas.class);
-                intent.putExtra("Nome", sna);
+                intent.putExtra("NOME", sna);
                 intent.putExtra("TELEFONE", sph);
                 intent.putExtra("SENHA", spa);
                 startActivity(intent);
             }
         });
+    }
+    public static void getPedido() {
+        databaseReferencePedidos = FirebaseDatabase.getInstance().getReference("pedidos");
     }
 }

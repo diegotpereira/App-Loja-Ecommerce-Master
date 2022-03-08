@@ -3,13 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/administrator/AndroidStudioProjects/AppLojaEcommerceMaster/app/src/main/res/layout/activity_add_estoque.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/administrator/AndroidStudioProjects/AppLojaEcommerceMaster/app/src/main/res/layout/activity_admin_principal_pagina.xml" value="0.1" />
         <entry key="..\:/Users/administrator/AndroidStudioProjects/AppLojaEcommerceMaster/app/src/main/res/layout/activity_camisetas.xml" value="0.1" />
         <entry key="..\:/Users/administrator/AndroidStudioProjects/AppLojaEcommerceMaster/app/src/main/res/layout/activity_entrar_pagina.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/administrator/AndroidStudioProjects/AppLojaEcommerceMaster/app/src/main/res/layout/activity_exibir_item.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/administrator/AndroidStudioProjects/AppLojaEcommerceMaster/app/src/main/res/layout/activity_homens_roupas.xml" value="0.1" />
         <entry key="..\:/Users/administrator/AndroidStudioProjects/AppLojaEcommerceMaster/app/src/main/res/layout/activity_main.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/administrator/AndroidStudioProjects/AppLojaEcommerceMaster/app/src/main/res/layout/activity_pagina_principal.xml" value="0.14270833333333333" />
         <entry key="..\:/Users/administrator/AndroidStudioProjects/AppLojaEcommerceMaster/app/src/main/res/layout/activity_registrar_pagina.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/administrator/AndroidStudioProjects/AppLojaEcommerceMaster/app/src/main/res/layout/activity_roupas.xml" value="0.1" />
+        <entry key="..\:/Users/administrator/AndroidStudioProjects/AppLojaEcommerceMaster/app/src/main/res/layout/activity_seu_pedido.xml" value="0.33" />
         <entry key="..\:/Users/administrator/AndroidStudioProjects/AppLojaEcommerceMaster/app/src/main/res/layout/app_bar_principal_pagina.xml" value="0.14270833333333333" />
         <entry key="..\:/Users/administrator/AndroidStudioProjects/AppLojaEcommerceMaster/app/src/main/res/layout/content_principal_pagina.xml" value="0.14270833333333333" />
         <entry key="..\:/Users/administrator/AndroidStudioProjects/AppLojaEcommerceMaster/app/src/main/res/layout/fragmento_principal.xml" value="0.13697916666666668" />
