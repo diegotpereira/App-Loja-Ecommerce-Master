@@ -16,7 +16,7 @@
             android:name=".AdminPrincipalPagina"
             android:exported="false" />
         <activity
-            android:name=".AddEstoque"
+            android:name=".EntrarPagina"
             android:exported="false" />
         <activity
             android:name=".ExibirItem"
@@ -40,7 +40,7 @@
             android:name=".MainActivity"
             android:exported="false" />
         <activity
-            android:name=".EntrarPagina"
+            android:name=".AddEstoque"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

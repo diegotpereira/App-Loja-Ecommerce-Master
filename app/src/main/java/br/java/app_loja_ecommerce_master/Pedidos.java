@@ -2,57 +2,56 @@ package br.java.app_loja_ecommerce_master;
 
 public class Pedidos {
 
-    String personalnome;
-    String personaltelefone;
-    String personaladdr;
-    String personalsenha;
+    String personalizadonome;
+    String personalizadotelefone;
+    String personalizadoaddr;
+    String personalizadosenha;
     String spec;
     String id;
     int preco;
 
     public Pedidos(){}
 
-    public Pedidos(String personalnome, String personaltelefone, String personaladdr,
-                   String personalsenha, String spec, String id, int preco) {
-        this.personalnome = personalnome;
-        this.personaltelefone = personaltelefone;
-        this.personaladdr = personaladdr;
-        this.personalsenha = personalsenha;
+    public Pedidos(String personalizadonome, String personalizadotelefone, String personalizadoaddr, String personalizadosenha, String spec, String id, int preco) {
+        this.personalizadonome = personalizadonome;
+        this.personalizadotelefone = personalizadotelefone;
+        this.personalizadoaddr = personalizadoaddr;
+        this.personalizadosenha = personalizadosenha;
         this.spec = spec;
         this.id = id;
         this.preco = preco;
     }
 
-    public String getPersonalnome() {
-        return personalnome;
+    public String getPersonalizadonome() {
+        return personalizadonome;
     }
 
-    public void setPersonalnome(String personalnome) {
-        this.personalnome = personalnome;
+    public void setPersonalizadonome(String personalizadonome) {
+        this.personalizadonome = personalizadonome;
     }
 
-    public String getPersonaltelefone() {
-        return personaltelefone;
+    public String getPersonalizadotelefone() {
+        return personalizadotelefone;
     }
 
-    public void setPersonaltelefone(String personaltelefone) {
-        this.personaltelefone = personaltelefone;
+    public void setPersonalizadotelefone(String personalizadotelefone) {
+        this.personalizadotelefone = personalizadotelefone;
     }
 
-    public String getPersonaladdr() {
-        return personaladdr;
+    public String getPersonalizadoaddr() {
+        return personalizadoaddr;
     }
 
-    public void setPersonaladdr(String personaladdr) {
-        this.personaladdr = personaladdr;
+    public void setPersonalizadoaddr(String personalizadoaddr) {
+        this.personalizadoaddr = personalizadoaddr;
     }
 
-    public String getPersonalsenha() {
-        return personalsenha;
+    public String getPersonalizadosenha() {
+        return personalizadosenha;
     }
 
-    public void setPersonalsenha(String personalsenha) {
-        this.personalsenha = personalsenha;
+    public void setPersonalizadosenha(String personalizadosenha) {
+        this.personalizadosenha = personalizadosenha;
     }
 
     public String getSpec() {
