@@ -3,22 +3,21 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/administrator/AndroidStudioProjects/AppLojaEcommerceMaster/app/src/main/res/layout/activity_camisetas.xml" value="0.1" />
         <entry key="..\:/Users/administrator/AndroidStudioProjects/AppLojaEcommerceMaster/app/src/main/res/layout/activity_entrar_pagina.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/administrator/AndroidStudioProjects/AppLojaEcommerceMaster/app/src/main/res/layout/activity_homens_roupas.xml" value="0.1" />
         <entry key="..\:/Users/administrator/AndroidStudioProjects/AppLojaEcommerceMaster/app/src/main/res/layout/activity_main.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/administrator/AndroidStudioProjects/AppLojaEcommerceMaster/app/src/main/res/layout/activity_pagina_principal.xml" value="0.14270833333333333" />
         <entry key="..\:/Users/administrator/AndroidStudioProjects/AppLojaEcommerceMaster/app/src/main/res/layout/activity_registrar_pagina.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/administrator/AndroidStudioProjects/AppLojaEcommerceMaster/app/src/main/res/layout/activity_roupas.xml" value="0.1" />
         <entry key="..\:/Users/administrator/AndroidStudioProjects/AppLojaEcommerceMaster/app/src/main/res/layout/app_bar_principal_pagina.xml" value="0.14270833333333333" />
         <entry key="..\:/Users/administrator/AndroidStudioProjects/AppLojaEcommerceMaster/app/src/main/res/layout/content_principal_pagina.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/administrator/AndroidStudioProjects/AppLojaEcommerceMaster/app/src/main/res/layout/fragmento_principal.xml" value="0.13697916666666668" />
+        <entry key="..\:/Users/administrator/AndroidStudioProjects/AppLojaEcommerceMaster/app/src/main/res/layout/lista_item.xml" value="0.1" />
         <entry key="..\:/Users/administrator/AndroidStudioProjects/AppLojaEcommerceMaster/app/src/main/res/layout/nav_cabecalho_principal_pagina.xml" value="0.14270833333333333" />
         <entry key="..\:/Users/administrator/AndroidStudioProjects/AppLojaEcommerceMaster/app/src/main/res/menu/activity_principal_pagina_drawer.xml" value="0.14270833333333333" />
       </map>
     </option>
-  </component>
-  <component name="ProjectPlainTextFileTypeManager">
-    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_registro_pagina.xml" />
-    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/content_registro_pagina.xml" />
-    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_first.xml" />
-    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_second.xml" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />

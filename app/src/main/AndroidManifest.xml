@@ -10,6 +10,18 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
+            android:name=".ExibirItem"
+            android:exported="false" />
+        <activity
+            android:name=".Camisetas"
+            android:exported="false" />
+        <activity
+            android:name=".HomensRoupas"
+            android:exported="false" />
+        <activity
+            android:name=".Roupas"
+            android:exported="false" />
+        <activity
             android:name=".RegistrarPagina"
             android:exported="false" />
         <activity
